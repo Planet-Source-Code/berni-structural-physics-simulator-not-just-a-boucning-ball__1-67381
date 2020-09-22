@@ -1,0 +1,101 @@
+ÿú.....::: PhisSim 0.1 :::.....
+
+Structural physics simmulator
+for VB 6.0
+
+
+_____________________________
+Fetures:
+-Link and node simulation
+-Adjustable propertys
+-Adjustable speed
+-Save files
+-Special costum GUI
+-Up to 1000 Links or Nodes
+
+Fetures Planed:
+-Hidravic links
+-Rocket endgines
+-Colision detection
+-Snap to grid in editor
+-Draging and deleting links
+ and nodes while simulation
+ is running
+-Bitmap colision
+-Any other cool thing i can
+ think of...
+
+
+_____________________________
+How to use the sim:
+Show Menu- Opens a menu whith 
+  some settngins
+Run - Starts the simulation
+Stop - Stops the simulation
+Reset Model - resets the 
+model
+  back to the model that was 
+  drawn in the editor
+Exit - Ends the program
+Help - I gues you already 
+  fugured out this one since 
+  your reading this
+
+Note: If you unchek Show 
+Nodes
+ then indexes wont be shown
+ (Not a bug!)
+
+
+_____________________________
+How to use the editor:
+
+In the tools box you select
+difrent stuff to do:
+-Add Node: Creates a new node
+  at the cliked position
+  The propertys are set from 
+  the window below
+-Add Node: Creates a new link
+  First click a node,then
+  click a  node and a link 
+  will be created betwen.
+  If you have selected the 
+  first node and then click 
+  on a empty spot a new node 
+  will be created and linked 
+  (Very useful!)
+  The propertys are set from 
+  the window below.
+-Delete: Deletes the clicked 
+  element.Nodes get blue 
+  circles.Those are the links
+  handels. so select a link 
+  you must click that!
+-Move: Moves nodes
+  To move a node simply click
+  and drag it to the desired
+  position.
+  This tool also have the 
+  power to change propertys.
+  When you click a elememtn 
+  its propertys apear.
+  To change them set to what 
+  you want and click apply!
+  Link handles are displayed
+  becuse you can also edit
+  link propertys whith it!
+  There is also a trick to
+  do a stresed link whith 
+  it.Insted of using the 
+  left mouse button to move
+  a node use the right one.
+  This will prevent it to
+  autoajust link lenths.
+  To make them non tense
+  simply use the left to 
+  move it agen.
+
+_____________________________
+ http://planetsourcecode.com
+Copyright 2006 Bernard Klinc
